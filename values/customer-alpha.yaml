@@ -1,13 +1,13 @@
 custom:
-  name: "customer-0"
-  namespace: "customer-0"
+  name: "customer-alpha"
+  namespace: "customer-alpha"
 
 ## @param nameOverride String to partially override nginx.fullname template (will maintain the release name)
 ##
-nameOverride: "customer-0"
+nameOverride: "customer-alpha"
 ## @param fullnameOverride String to fully override nginx.fullname template
 ##
 fullnameOverride: ""
 ## @param namespaceOverride String to fully override common.names.namespace
 ##
-namespaceOverride: "customer-0"
+namespaceOverride: "customer-alpha"
