@@ -7,3 +7,7 @@ fullnameOverride: ""
 ## @param namespaceOverride String to fully override common.names.namespace
 ##
 namespaceOverride: "customer-0"
+
+test:
+  deploymentName: "customer-0"
+  namespace: "customer-0"
